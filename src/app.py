@@ -25,55 +25,64 @@ activities = {
         "description": "Team sport focusing on skills, strategy, and physical fitness",
         "schedule": "Mondays and Wednesdays, 4:00 PM - 5:30 PM",
         "max_participants": 15,
-        "participants": ["alex@mergington.edu"]
-        },
-        "Tennis Club": {
+        "participants": ["alex@mergington.edu"],
+        "category": "Sports"
+    },
+    "Tennis Club": {
         "description": "Individual and doubles tennis matches with coaching",
         "schedule": "Tuesdays and Thursdays, 3:30 PM - 5:00 PM",
         "max_participants": 16,
-        "participants": ["james@mergington.edu"]
-        },
-        "Art Studio": {
+        "participants": ["james@mergington.edu"],
+        "category": "Sports"
+    },
+    "Art Studio": {
         "description": "Explore painting, drawing, and mixed media techniques",
         "schedule": "Wednesdays, 3:30 PM - 5:00 PM",
         "max_participants": 18,
-        "participants": ["isabella@mergington.edu"]
-        },
-        "Drama Club": {
+        "participants": ["isabella@mergington.edu"],
+        "category": "Arts"
+    },
+    "Drama Club": {
         "description": "Acting, theater production, and stage performances",
         "schedule": "Thursdays, 4:00 PM - 5:30 PM",
         "max_participants": 25,
-        "participants": ["lucas@mergington.edu", "charlotte@mergington.edu"]
-        },
-        "Robotics Club": {
+        "participants": ["lucas@mergington.edu", "charlotte@mergington.edu"],
+        "category": "Arts"
+    },
+    "Robotics Club": {
         "description": "Design, build, and program robots for competitions",
         "schedule": "Mondays and Fridays, 4:00 PM - 5:30 PM",
         "max_participants": 14,
-        "participants": ["henry@mergington.edu"]
-        },
-        "Math Olympiad": {
+        "participants": ["henry@mergington.edu"],
+        "category": "STEM"
+    },
+    "Math Olympiad": {
         "description": "Advanced mathematics problem-solving and competitions",
         "schedule": "Tuesdays, 4:00 PM - 5:00 PM",
         "max_participants": 12,
-        "participants": ["sophie@mergington.edu", "andrew@mergington.edu"]
-        },
+        "participants": ["sophie@mergington.edu", "andrew@mergington.edu"],
+        "category": "STEM"
+    },
     "Chess Club": {
         "description": "Learn strategies and compete in chess tournaments",
         "schedule": "Fridays, 3:30 PM - 5:00 PM",
         "max_participants": 12,
-        "participants": ["michael@mergington.edu", "daniel@mergington.edu"]
+        "participants": ["michael@mergington.edu", "daniel@mergington.edu"],
+        "category": "Games"
     },
     "Programming Class": {
         "description": "Learn programming fundamentals and build software projects",
         "schedule": "Tuesdays and Thursdays, 3:30 PM - 4:30 PM",
         "max_participants": 20,
-        "participants": ["emma@mergington.edu", "sophia@mergington.edu"]
+        "participants": ["emma@mergington.edu", "sophia@mergington.edu"],
+        "category": "STEM"
     },
     "Gym Class": {
         "description": "Physical education and sports activities",
         "schedule": "Mondays, Wednesdays, Fridays, 2:00 PM - 3:00 PM",
         "max_participants": 30,
-        "participants": ["john@mergington.edu", "olivia@mergington.edu"]
+        "participants": ["john@mergington.edu", "olivia@mergington.edu"],
+        "category": "Sports"
     }
 }
 
